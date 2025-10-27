@@ -1,9 +1,6 @@
 # BrightTV-Viewership-Case-Study
 This project explores patterns and trends in BrightTV viewership data to uncover audience behaviour , peak viewing times, and demographic performance across different channels or programs.
 
-# 📺 BrightTV Viewership Analysis
-This project explores patterns and trends in BrightTV viewership data to uncover audience behavior, peak viewing times, and demographic performance across different channels or programs.
-
 # 🔍 Objective
 To analyze viewership data to identify insights that can inform programming, advertising strategy, audience engagement, and TV base growth.
 
